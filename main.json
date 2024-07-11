@@ -977,5 +977,13 @@
             "uploadDate": "2022-12-29T00:00:00.000Z",
             "fileSize": "12.5 GB"
         },
+        {
+            "title": "Judgment-EMPRESS",
+            "uris": [
+                "magnet:?xt=urn:btih:f0bbf7337d84566793c03f0936eb221a7e0dd548&dn=Judgment-EMPRESS&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2fopen.demonii.com%3a1337"
+            ],
+            "uploadDate": "2024-07-11T00:23:00.000Z",
+            "fileSize": "30.6 GB"
+        },
     ]
 }
