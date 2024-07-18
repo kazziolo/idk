@@ -1034,9 +1034,9 @@
           "fileSize": "10.8 GB"
       },
       {
-          "title": "Daemon X Machina (All DLCs + Multiplayer + MULTi8) (From 6.8 GB) - [DODI Repack]",
+          "title": "DAEMON.X.MACHINA.v1.0.6-OFME",
           "uris": [
-              "magnet:?xt=urn:btih:82C0558FBDC789FAA0BE4F7055F2DA424D0913AD&dn=Daemon+X+Machina+%28All+DLCs+%2B+Multiplayer+%2B+MULTi8%29+%28From+6.8+GB%29+-+%5BDODI+Repack%5D+&tr=udp%3A%2F%2F9.rarbg.me%3A2710%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce"
+              "magnet:?xt=urn:btih:a8961dfcb5fc196f245371fa5d0b5c5fbd4714c8&dn=DAEMON%20X%20MACHINA&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969"
           ],
           "uploadDate": "2020-02-17T00:00:00.000Z",
           "fileSize": "7.3 GB"
@@ -1066,9 +1066,9 @@
           "fileSize": "19.8 GB"
       },
       {
-          "title": "Pummel Party",
+          "title": "Pummel Party v1.13.4e -OFME",
           "uris": [
-              "magnet:?xt=urn:btih:d7488e9c6c090cbd85353e4effce0f8f3197001b&dn=Pummel+Party&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969"
+              "magnet:?xt=urn:btih:d7488e9c6c090cbd85353e4effce0f8f3197001b&dn=Pummel%20Party&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969"
           ],
           "uploadDate": "2024-01-31T16:38:23.000Z",
           "fileSize": "1.2 GB"
@@ -1090,9 +1090,9 @@
           "fileSize": "372.7 MB"
       },
       {
-          "title": "Risk of Rain 2",
+          "title": "Risk of Rain 2 v1.2.4.1 -OFME",
           "uris": [
-              "magnet:?xt=urn:btih:42bb5b83af2bf6e2604ede6a89e496f296a2632a&dn=Risk+of+Rain+2&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969"
+              "magnet:?xt=urn:btih:42bb5b83af2bf6e2604ede6a89e496f296a2632a&dn=Risk%20of%20Rain%202&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969"
           ],
           "uploadDate": "2022-11-04T11:14:24.000Z",
           "fileSize": "1.7 GB"
@@ -1234,7 +1234,7 @@
           "fileSize": "137.4 GB"
       },
       {
-          "title": "Left 4 Dead 2",
+          "title": "Left 4 Dead 2 - OFME",
           "uris": [
               "magnet:?xt=urn:btih:fb755200b5343508c8b2c4c90c34763621334f00&dn=Left+4+Dead+2&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969"
           ],
@@ -1250,9 +1250,9 @@
           "fileSize": "4 GB"
       },
       {
-          "title": "Gears 5",
+          "title": "Gears 5 - OFME",
           "uris": [
-              "magnet:?xt=urn:btih:7eb76b0b6060030e24f7b8dd1326ec26ec5f84f9&dn=Gears+5&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969"
+              "magnet:?xt=urn:btih:7eb76b0b6060030e24f7b8dd1326ec26ec5f84f9&dn=Gears%205&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969"
           ],
           "uploadDate": "2023-11-28T15:24:20.000Z",
           "fileSize": "121.1 GB"
@@ -2456,6 +2456,54 @@
     ],
     "uploadDate": "2024-07-18T23:00:00.000Z",
     "fileSize": "11.3 GB"
+},
+{
+    "title": "Yakuza Like a Dragon v1.009 - EMPRESS",
+    "uris": [
+        "magnet:?xt=urn:btih:6a62b3c4d647defad3bed03b13f7159242f51740&dn=Yakuza%20Like%20a%20Dragon&tr=http%3A%2F%2Ftr.ysagin.top%3A2710%2Fannounce&tr=http%3A%2F%2Ftr2.ysagin.top%3A2715%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fopentor.org%3A2710"
+    ],
+    "uploadDate": "2024-07-18T23:00:00.000Z",
+    "fileSize": "60.5 GB"
+},     
+{
+    "title": "SAND LAND v.1.0.3 -FLT (xatab)",
+    "uris": [
+        "magnet:?xt=urn:btih:8b0b82a150c19cca8f5378eed69b3ca28f55d9c8&dn=SAND%20LAND%20(2024)&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker-udp.gbitt.info%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.gbitt.info%3A443%2Fannounce&tr=http%3A%2F%2Ftracker.gbitt.info%3A80%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.tamersunion.org%3A443%2Fannounce&tr=http%3A%2F%2Ftracker1.bt.moack.co.kr%3A80%2Fannounce&tr=http%3A%2F%2Ftracker.skyts.net%3A6969%2Fannounce&tr=http%3A%2F%2Fopen.tracker.ink%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.theoks.net%3A6969%2Fannounce&tr=udp%3A%2F%2Fopentracker.io%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.free-tracker.ga%3A6969%2Fannounce&tr=udp%3A%2F%2Fnew-line.net%3A6969%2Fannounce&tr=udp%3A%2F%2Fepider.me%3A6969%2Fannounce&tr=udp%3A%2F%2Fbt2.archive.org%3A6969%2Fannounce"
+    ],
+    "uploadDate": "2024-07-18T23:00:00.000Z",
+    "fileSize": "18.9 GB"
+},     
+{
+    "title": "Call of Duty Infinite Warfare BUILD 2715288 - DODI",
+    "uris": [
+        "magnet:?xt=urn:btih:feac7eebfb83a3bcf8706ff4d84a27c8c854b6ce&dn=Call%20of%20Duty%20Infinite%20Warfare%20-%20%5BDODI%20Repack%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Feddie4.nl%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce"
+    ],
+    "uploadDate": "2024-07-18T23:00:00.000Z",
+    "fileSize": "45.3 GB"
+},       
+{
+    "title": "Final Fantasy VII Remake Intergrade v1_001 -CODEX",
+    "uris": [
+        "magnet:?xt=urn:btih:b24291e84a4307202e9141679f50e627a6efe39c&dn=Final-Fantasy-VII-RI-SteamRIP.com&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fretracker.lanta-net.ru%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fopentor.net%3A6969&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce"
+    ],
+    "uploadDate": "2024-07-18T23:00:00.000Z",
+    "fileSize": "101 GB"
+},     
+{
+    "title": "Final.Fantasy.XV.Windows.Edition Build 1261414 - CODEX",
+    "uris": [
+        "magnet:?xt=urn:btih:f9ef65dcc3c13e8bb27f78717be418343a1b1955&dn=Final.Fantasy.XV.Windows.Edition.Episode.Ardyn-CODEX&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2820%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2940%2Fannounce"
+    ],
+    "uploadDate": "2024-07-18T23:00:00.000Z",
+    "fileSize": "103 GB"
+}, 
+{
+    "title": "TEKKEN 8 Ultimate Edition -Ksenia",
+    "uris": [
+        "magnet:?xt=urn:btih:LFY5MU4S6WETWJWQJ3IP2GG2BNXKMZOF&dn=TEKKEN%208%20-%20Ultimate%20Edition%20%5BSteam-Rip%5D%20by%20Ksenia&tr=http%3A%2F%2Fbt.piratbit.club%2F0012dc743a3039dd895dd23a65c495d7%2Fannounce"
+    ],
+    "uploadDate": "2024-07-18T23:00:00.000Z",
+    "fileSize": "90.95 GB"
 },         
 {
     "title": "Hollow Knight (v1.5.68.11808 + DLCs + Bonuses + MULTi10) (From 860 MB) - [DODI Repack]",
