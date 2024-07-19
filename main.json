@@ -732,7 +732,7 @@
       {
           "title": "Forza Horizon 5",
           "uris": [
-              "magnet:?xt=urn:btih:0be2439f6da74e56a33ddd7841550038bb02735b&dn=Forza+Horizon+5&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969"
+              "magnet:?xt=urn:btih:0219295e9c435429863707efb4a6d90063e985c9&dn=Forza%20Horizon%205&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969"
           ],
           "uploadDate": "2024-04-25T12:53:03.000Z",
           "fileSize": "173 GB"
@@ -2504,7 +2504,16 @@
     ],
     "uploadDate": "2024-07-18T23:00:00.000Z",
     "fileSize": "90.95 GB"
-},         
+}, 
+{
+    "title": "Adobe-Photoshop-2024-v25.7.0.504 M0nkrus",
+    "uris": [
+        "magnet:?xt=urn:btih:fffaaf0f9325cd2d64cebd04912b9b5c14e03fe7&dn=Photoshop.2024&tr=udp%3A%2F%2Fopentor.net%3A6969&tr=http%3A%2F%2Fbt.piratbit.club%2Fffffffff59565bff0783b446e5d9e848%2Fannounce&tr=http%3A%2F%2Fretracker.local%2Fannounce&tr=http%3A%2F%2Ftracker.grepler.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.com%3A6969%2Fannounce&tr=http%3A%2F%2Fh4.trakx.nibba.trade%3A80%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.bitsearch.to%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"
+    ],
+    "uploadDate": "2024-07-18T23:00:00.000Z",
+    "fileSize": "4.75 GB"
+},     
+    
 {
     "title": "Hollow Knight (v1.5.68.11808 + DLCs + Bonuses + MULTi10) (From 860 MB) - [DODI Repack]",
     "uris": [
