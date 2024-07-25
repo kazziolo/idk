@@ -379,7 +379,14 @@
       },
       {
           "title": "Among Us",
-          "uris": [
+        {
+    "title": "Among.Us.v2024.6.186.0-OFME",
+    "uris": [
+        "magnet:?xt=urn:btih:9bac22fd61302e34b9e113dcb78f4e33141b93ed&dn=Among%20Us&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969"
+    ],
+    "uploadDate": "2024-07-25T23:00:00.000Z",
+    "fileSize": "492 MB"
+},   "uris": [
               "magnet:?xt=urn:btih:abc6d2e289083f275eeb6fb73febc48569555d56&dn=Among+Us&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969"
           ],
           "uploadDate": "2024-03-06T12:20:57.000Z",
@@ -578,9 +585,9 @@
           "fileSize": "22.6 GB"
       },
       {
-          "title": "The Dark Pictures Anthology The Devil in Me",
+          "title": "The.Dark.Pictures.Anthology.The.Devil.in.Me.Build.18112022-OFME",
           "uris": [
-              "magnet:?xt=urn:btih:8147be6afc54dc623e5c85257e36269f34dca6f6&dn=The+Dark+Pictures+Anthology+The+Devil+in+Me&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969"
+              "magnet:?xt=urn:btih:8147be6afc54dc623e5c85257e36269f34dca6f6&dn=The%20Dark%20Pictures%20Anthology%20The%20Devil%20in%20Me&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969"
           ],
           "uploadDate": "2022-12-18T22:15:51.000Z",
           "fileSize": "38.4 GB"
@@ -706,9 +713,9 @@
           "fileSize": "1.5 GB"
       },
       {
-          "title": "Saints Row",
+          "title": "Saints Row - OFME",
           "uris": [
-              "magnet:?xt=urn:btih:0cd6898230c7e59a9825455879fcab39b915bd49&dn=Saints+Row&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969"
+              "magnet:?xt=urn:btih:0cd6898230c7e59a9825455879fcab39b915bd49&dn=Saints%20Row&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969"
           ],
           "uploadDate": "2023-08-29T11:41:00.000Z",
           "fileSize": "52.4 GB"
@@ -2513,7 +2520,102 @@
     "uploadDate": "2024-07-18T23:00:00.000Z",
     "fileSize": "4.75 GB"
 },     
-    
+{
+    "title": "7 Days to Die Alpha 20.6 OFME",
+    "uris": [
+        "magnet:?xt=urn:btih:XRXSVERJVGFNHJWBH5D4ETGCSDB4KT24&dn=7%20Days%20to%20Die%20Alpha%2020.6&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce"
+    ],
+    "uploadDate": "2024-07-25T23:00:00.000Z",
+    "fileSize": "6.95 GB"
+},  
+{
+    "title": "Far.Cry.Primal-Build 8384708 by CPY",
+    "uris": [
+        "magnet:?xt=urn:btih:9f825f4835befdd31c720ba53bf6e2ed8d7f2028&dn=Far.Cry.Primal-CPY&tr=udp%3A%2F%2Fopentor.net%3A6969&tr=http%3A%2F%2Fretracker.local%2Fannounce&tr=http%3A%2F%2Ftracker.grepler.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.com%3A6969%2Fannounce&tr=http%3A%2F%2Fh4.trakx.nibba.trade%3A80%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.bitsearch.to%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"
+    ],
+    "uploadDate": "2024-07-25T23:00:00.000Z",
+    "fileSize": "17.9 GB"
+}, 
+{
+    "title": "Bus.Simulator.21.Next.Stop.Build.24052023-OFME",
+    "uris": [
+        "magnet:?xt=urn:btih:ac3ae6ee7b8e0382e65404ca6fae514fe0b16f7d&dn=Bus%20Simulator%2021&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969"
+    ],
+    "uploadDate": "2024-07-25T23:00:00.000Z",
+    "fileSize": "9.48 GB"
+},   
+{
+    "title": "Crysis_3_Remastered_Portable-build 9460220 - vadys",
+    "uris": [
+        "magnet:?xt=urn:btih:05fbee3bbe4d8e2062ea8ac41cc3b95106caafe9&dn=Crysis%203%20Remastered%20Portable&tr=udp%3A%2F%2Fopentor.net%3A6969&tr=http%3A%2F%2Fretracker.local%2Fannounce&tr=http%3A%2F%2Ftracker.grepler.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.com%3A6969%2Fannounce&tr=http%3A%2F%2Fh4.trakx.nibba.trade%3A80%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.bitsearch.to%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"
+    ],
+    "uploadDate": "2024-07-25T23:00:00.000Z",
+    "fileSize": "19.4 GB"
+}, 
+{
+    "title": "Sailing Era (1.3.0 + 2 DLC) [Rune]",
+    "uris": [
+        "magnet:?xt=urn:btih:de36038ee700e2243b1894bcbfe367123eb5e889&dn=Sailing.Era.Edge.of.the.World-RUNE&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
+    ],
+    "uploadDate": "2024-07-25T23:00:00.000Z",
+    "fileSize": "7.67 GB"
+}, 
+{
+    "title": "Chivalry.2.v1.0.45.0-OFME",
+    "uris": [
+        "magnet:?xt=urn:btih:dce952a47321fd4971696e5a48b065ecec398826&dn=Chivalry%202&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969"
+    ],
+    "uploadDate": "2024-07-25T23:00:00.000Z",
+    "fileSize": "27.7 GB"
+}, 
+{
+    "title": "GoreBox.v13.7.9-OFME",
+    "uris": [
+        "magnet:?xt=urn:btih:85e41ba47d04bf609a406d2bf4cc9f38946345e8&dn=GoreBox&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969"
+    ],
+    "uploadDate": "2024-07-25T23:00:00.000Z",
+    "fileSize": "793 MB"
+}, 
+{
+    "title": "Sally_Face [V 1.5.09] by GOG",
+    "uris": [
+        "magnet:?xt=urn:btih:758f830288901c1a41d7bf1292c9fa21a5379fcb&dn=Sally%20Face%20%5BGOG%5D&tr=udp%3A%2F%2Fopentor.net%3A6969&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann&tr=http%3A%2F%2Fretracker.local%2Fannounce&tr=http%3A%2F%2Ftracker.grepler.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.com%3A6969%2Fannounce&tr=http%3A%2F%2Fh4.trakx.nibba.trade%3A80%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.bitsearch.to%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"
+    ],
+    "uploadDate": "2024-07-25T23:00:00.000Z",
+    "fileSize": "631 MB"
+}, 
+{
+    "title": "Anger Foot v1.3 -RUNE x xatab",
+    "uris": [
+        "magnet:?xt=urn:btih:f41fdd51c78482eba6929fa32aa5b44cf1c394de&dn=Anger%20Foot%20(2024)&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker-udp.gbitt.info%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.gbitt.info%3A443%2Fannounce&tr=http%3A%2F%2Ftracker.gbitt.info%3A80%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.tamersunion.org%3A443%2Fannounce&tr=http%3A%2F%2Ftracker1.bt.moack.co.kr%3A80%2Fannounce&tr=http%3A%2F%2Ftracker.skyts.net%3A6969%2Fannounce&tr=http%3A%2F%2Fopen.tracker.ink%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.theoks.net%3A6969%2Fannounce&tr=udp%3A%2F%2Fopentracker.io%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.free-tracker.ga%3A6969%2Fannounce&tr=udp%3A%2F%2Fnew-line.net%3A6969%2Fannounce&tr=udp%3A%2F%2Fepider.me%3A6969%2Fannounce&tr=udp%3A%2F%2Fbt2.archive.org%3A6969%2Fannounce"
+    ],
+    "uploadDate": "2024-07-25T23:00:00.000Z",
+    "fileSize": "14.8 GB"
+}, 
+{
+    "title": "Crysis v3.0.0 - InsaneRamZes",
+    "uris": [
+        "magnet:?xt=urn:btih:426ccf4b1a652c134c440f03ca60e294d8809c04&dn=Crysis%20Remastered&tr=udp%3A%2F%2Fopentor.net%3A6969&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fpk%3D76971f8850d10e4113928845a0ebb504&tr=http%3A%2F%2Fretracker.local%2Fannounce&tr=http%3A%2F%2Ftracker.grepler.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.com%3A6969%2Fannounce&tr=http%3A%2F%2Fh4.trakx.nibba.trade%3A80%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.bitsearch.to%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"
+    ],
+    "uploadDate": "2024-07-25T23:00:00.000Z",
+    "fileSize": "21.4 GB"
+}, 
+{
+    "title": "Crysis 2 v1.9 - Игры on rutracker",
+    "uris": [
+        "magnet:?xt=urn:btih:668d83d094d83a2d0215d65831331a68a1d16a3f&dn=Crysis.2.Maximum.Edition.2012.PC&tr=udp%3A%2F%2Fopentor.net%3A6969&tr=http%3A%2F%2Fretracker.local%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=http%3A%2F%2Ftracker.grepler.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.com%3A6969%2Fannounce&tr=http%3A%2F%2Fh4.trakx.nibba.trade%3A80%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.bitsearch.to%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"
+    ],
+    "uploadDate": "2024-07-25T23:00:00.000Z",
+    "fileSize": "13.4 GB"
+}, 
+{
+    "title": "A Plague Tale Innocence v1.0 -CODEX",
+    "uris": [
+        "magnet:?xt=urn:btih:9d78b2836596a8d8824daa7cd7891435e9214e8d&dn=A.Plague.Tale.Innocence-CODEX&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2740%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2750%2Fannounce"
+    ],
+    "uploadDate": "2024-07-25T23:00:00.000Z",
+    "fileSize": "41.3 GB"
+},    
 {
     "title": "Hollow Knight (v1.5.68.11808 + DLCs + Bonuses + MULTi10) (From 860 MB) - [DODI Repack]",
     "uris": [
