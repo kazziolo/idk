@@ -2608,7 +2608,47 @@
       ],
       "uploadDate": "2024-07-25T23:00:00.000Z",
       "fileSize": "41.3 GB"
-  },    
+  },   
+  {
+    "title": "Twelve Minutes changelist 11177022 - CODEX",
+    "uris": [
+        "magnet:?xt=urn:btih:a28b616c806c6733fa582e7b2c86a3338f19e99d&dn=Twelve.Minutes-CODEX&tr=udp%3A%2F%2Fopentor.net%3A6969&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fpk%3D76971f8850d10e4113928845a0ebb504&tr=http%3A%2F%2Fretracker.local%2Fannounce&tr=http%3A%2F%2Ftracker.grepler.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.com%3A6969%2Fannounce&tr=http%3A%2F%2Fh4.trakx.nibba.trade%3A80%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.bitsearch.to%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"
+    ],
+    "uploadDate": "2024-07-25T23:00:00.000Z",
+    "fileSize": "1.22 GB"
+}, 
+{
+    "title": "Outpost.Infinity.Siege.Build.07062024-OFME",
+    "uris": [
+        "magnet:?xt=urn:btih:15c164ad9bfc4fa395fdffaba662bae678200e59&dn=Outpost%20Infinity%20Siege&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969"
+    ],
+    "uploadDate": "2024-07-25T23:00:00.000Z",
+    "fileSize": "32.1 GB"
+}, 
+{
+    "title": "Havocado.Ragdoll.Fighter.v658-OFME",
+    "uris": [
+        "magnet:?xt=urn:btih:ac86b4e42f42ae0a5a730022333fb87e1d882749&dn=Havocado%20Ragdoll%20Fighter&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce"
+    ],
+    "uploadDate": "2024-07-25T23:00:00.000Z",
+    "fileSize": "856 MB"
+}, 
+{
+    "title": "Returnal v1.0 build 11083317 - InsaneRamZes",
+    "uris": [
+        "magnet:?xt=urn:btih:8ce2798c5223ebfed222cad5dd20525c094e902d&dn=Returnal-InsaneRamZes&tr=udp%3A%2F%2Fopentor.net%3A6969&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fpk%3Dff97569cfd157fa554952e4ce8855879&tr=http%3A%2F%2Fretracker.local%2Fannounce&tr=http%3A%2F%2Ftracker.grepler.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.com%3A6969%2Fannounce&tr=http%3A%2F%2Fh4.trakx.nibba.trade%3A80%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.bitsearch.to%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"
+    ],
+    "uploadDate": "2024-07-25T23:00:00.000Z",
+    "fileSize": "57.3 GB"
+}, 
+{
+    "title": "Lobotomy Corporation v1.0.2.10 - SKIDROW",
+    "uris": [
+        "magnet:?xt=urn:btih:67d8a729a01bbf1f39a9efebd88421dbf01c79a0&dn=Lobotomy%20Corporation%20-%20SKIDROW&tr=udp%3A%2F%2Fopentor.net%3A6969&tr=http%3A%2F%2Fretracker.local%2Fannounce&tr=http%3A%2F%2Ftracker.grepler.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.com%3A6969%2Fannounce&tr=http%3A%2F%2Fh4.trakx.nibba.trade%3A80%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.bitsearch.to%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce"
+    ],
+    "uploadDate": "2024-07-25T23:00:00.000Z",
+    "fileSize": "1.93 GB"
+},         
   {
       "title": "Hollow Knight (v1.5.68.11808 + DLCs + Bonuses + MULTi10) (From 860 MB) - [DODI Repack]",
       "uris": [
